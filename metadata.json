@@ -1,0 +1,6 @@
+{
+  "name": "DineFlow - QR Ordering & Kitchen Display System",
+  "description": "Smart restaurant order taking app with table QR scanning, kitchen display system (KDS), real-time inventory management, payment terminal, order tracking, and automated staff reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
